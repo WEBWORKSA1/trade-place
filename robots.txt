@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /src/
+Disallow: /docs/
+
+Sitemap: https://trade.place/sitemap.xml
